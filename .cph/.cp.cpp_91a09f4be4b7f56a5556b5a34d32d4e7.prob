@@ -1,0 +1,1 @@
+{"name":"Local: cp","url":"d:\\New folder\\cp.cpp","tests":[{"id":1759495906111,"input":"aaaa\naaaA\n","output":"0"},{"id":1759495924450,"input":"abs\nAbz\n","output":"-1\n"},{"id":1759495946763,"input":"abcdefg\nAbCdEfF\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\New folder\\cp.cpp","group":"local","local":true}
